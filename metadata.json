@@ -1,0 +1,6 @@
+{
+  "name": "Local PDF RAG Chatbot Studio",
+  "description": "Complete beginner-friendly, 100% free local RAG PDF chatbot built with Python 3.12, Ollama, ChromaDB, and Streamlit, featuring an interactive testing playground and step-by-step setup guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
